@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nirav P. Shah
+title: Nirav V. Shah
 
 # Full name (for SEO)
 first_name: Nirav
@@ -46,16 +46,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:nvs31@cam.ac.uk'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/nirav-shah-2409/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=M9_CPPkAAAAJ&hl
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/niravshah241
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,4 +71,4 @@ user_groups:
   - Researchers
 ---
 
-Nirav . . .
+<!-- Nirav . . . -->

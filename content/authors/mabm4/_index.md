@@ -21,20 +21,21 @@ organizations:
   - name: University of Cambridge
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: Etc.
+# # Short bio (displayed in user profile at end of posts)
+# bio: Etc.
 
 interests:
+  - Nonlinear acoustics
   - Fast finite element methods
 
-education:
-  courses:
-    - course: MRes in Engineering
-      institution: University of Cambridge
-      year: 2014
-    - course: MEng in Engineering
-      institution: Durhm UniversityMassachusetts Institute of Technology
-      year: 2009
+# education:
+#   courses:
+#     - course: MRes in Engineering
+#       institution: University of Cambridge
+#       year: 2014
+#     - course: MEng in Engineering
+#       institution: Durhm UniversityMassachusetts Institute of Technology
+#       year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -43,16 +44,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'mailto:mabm4@cam.ac.uk'
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.linkedin.com/in/adeeb-arif-kor-60a40a1a1/
+  # - icon: orcid
+  #   icon_pack: ai
+  #   link: https://scholar.google.com/citations?user=aGgoDlMAAAAJ&hl
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=aGgoDlMAAAAJ&hl
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/adeebkor
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

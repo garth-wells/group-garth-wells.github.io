@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Joseph Dean
+title: JosephP. Dean
 
 # Full name (for SEO)
-first_name: Joseph P.
+first_name: Joseph
 last_name: Dean
 
 # Username (this should match the folder name)
@@ -22,22 +22,22 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Etc.
+# bio: Etc.
 
-interests:
-  - Structure preserving methods
+# interests:
+#   - Structure preserving methods
 
-education:
-  courses:
-    - course: PhD in Engineering
-      institution: University of Cambridge
-      year: 2024
-    - course: MRes in Engineering
-      institution: University of Cambridge
-      year: 2014
-    - course: MEng in Engineering
-      institution: Durhm UniversityMassachusetts Institute of Technology
-      year: 2009
+# education:
+#   courses:
+#     - course: PhD in Engineering
+#       institution: University of Cambridge
+#       year: 2024
+#     - course: MRes in Engineering
+#       institution: University of Cambridge
+#       year: 2014
+#     - course: MEng in Engineering
+#       institution: Durhm UniversityMassachusetts Institute of Technology
+#       year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -46,16 +46,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'mailto:jpd62@cam.ac.uk'
+  - icon: orcid
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://orcid.org/0000-0001-7499-3373
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=NIprovAAAAAJ&hl
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jpdean
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +69,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
+  - Grad Students
 ---
 
-Joe . . .
+<!-- Joe . . . -->

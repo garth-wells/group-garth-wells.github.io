@@ -18,27 +18,27 @@ role: Project Coordinator/Group Administrator
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Cambrdige
+  - name: University of Cambridge
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: Etc.
+# # Short bio (displayed in user profile at end of posts)
+# bio: Etc.
 
-interests:
-  - Finite element methods
-  - Boundary element methods
+# interests:
+#   - Finite element methods
+#   - Boundary element methods
 
-education:
-  courses:
-    - course: PhD in Engineering
-      institution: University of Cambridge
-      year: 2024
-    - course: MRes in Engineering
-      institution: University of Cambridge
-      year: 2014
-    - course: MEng in Engineering
-      institution: Durhm UniversityMassachusetts Institute of Technology
-      year: 2009
+# education:
+#   courses:
+#     - course: PhD in Engineering
+#       institution: University of Cambridge
+#       year: 2024
+#     - course: MRes in Engineering
+#       institution: University of Cambridge
+#       year: 2014
+#     - course: MEng in Engineering
+#       institution: Durhm UniversityMassachusetts Institute of Technology
+#       year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -47,10 +47,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
+    link: 'mailto:hh463@cam.ac.uk'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/hilde-hambro-b83945263/
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -72,4 +72,4 @@ user_groups:
   - Administration
 ---
 
-Matthew was as Post-doctoral Research Associate (2019--2022).
+<!-- Matthew was as Post-doctoral Research Associate (2019--2022). -->

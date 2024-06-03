@@ -21,12 +21,12 @@ role: Postdoctoral Research Associate
 #   - name: University College London
 #     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: Etc.
+# # Short bio (displayed in user profile at end of posts)
+# bio: Etc.
 
-interests:
-  - Finite element methods
-  - Boundary element methods
+# interests:
+#   - Finite element methods
+#   - Boundary element methods
 
 # education:
 #   courses:
@@ -45,9 +45,15 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:test@example.org'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:test@example.org'
+  - icon: linkedin
+    icon_pack: ai
+    link: https://www.linkedin.com/in/jorgen-s-dokken
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-6489-8858
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=hfeXoYMAAAAJ&hl

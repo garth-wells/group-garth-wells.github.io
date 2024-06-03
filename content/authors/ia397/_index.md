@@ -24,15 +24,15 @@ role: Postdoctoral Research Associate
 # Short bio (displayed in user profile at end of posts)
 # bio: Etc.
 
-interests:
-  - Finite element methods
-  - Boundary element methods
+# interests:
+#   - Finite element methods
+#   - Boundary element methods
 
-education:
-  courses:
-    - course: PhD in Electrical Engineering
-      institution: Universidade Federal de Minas Gerais
-      year: 2021
+# education:
+#   courses:
+#     - course: PhD in Electrical Engineering
+#       institution: Universidade Federal de Minas Gerais
+#       year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,6 +45,9 @@ social:
   - icon: linkedin
     icon_pack: ai
     link: https://www.linkedin.com/in/igorbaratta/
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-4298-2973
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=rSVxxwsAAAAJ&hl
