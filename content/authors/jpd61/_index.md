@@ -19,19 +19,19 @@ role: Postdoctoral Research Associate
 # Organizations/Affiliations
 organizations:
   - name: University of Cambridge
-    url: ''
+    url: 'http://eng.cam.ac.uk'
 
 # Short bio (displayed in user profile at end of posts)
 # bio: Etc.
 
-# interests:
-#   - Structure preserving methods
+interests:
+  - Structure preserving methods
 
-# education:
-#   courses:
-#     - course: PhD in Engineering
-#       institution: University of Cambridge
-#       year: 2024
+education:
+  courses:
+    - course: PhD in Engineering
+      institution: University of Cambridge
+      year: 2024
 #     - course: MRes in Engineering
 #       institution: University of Cambridge
 #       year: 2014

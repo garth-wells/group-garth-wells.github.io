@@ -24,14 +24,15 @@ organizations:
 # # Short bio (displayed in user profile at end of posts)
 # bio: Etc.
 
-# interests:
-#   - Structure preserving methods
+interests:
+  - High performance computing
+  - Turbomachinery
 
-# education:
-#   courses:
-#     - course: PhD in Engineering
-#       institution: University of Cambridge
-#       year: 2024
+education:
+  courses:
+    - course: PhD
+      institution: University of Southampton
+      year: 2003
 #     - course: MRes in Engineering
 #       institution: University of Cambridge
 #       year: 2014

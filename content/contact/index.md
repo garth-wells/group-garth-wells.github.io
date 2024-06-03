@@ -13,7 +13,7 @@ sections:
       # email: test@example.org
       # phone: 888 888 88 88
       address:
-        street: Trumpington Street
+        street: Department of Engineering, Trumpington Street
         city: Cambridge
         # region: CA
         postcode: 'CB2 1PZ'

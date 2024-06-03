@@ -19,7 +19,7 @@ role: Postdoctoral Research Associate
 # Organizations/Affiliations
 organizations:
   - name: University of Cambridge
-    url: ''
+    url: 'https://eng.cam.ac.uk'
 
 # Short bio (displayed in user profile at end of posts)
 # bio: Etc.
@@ -27,11 +27,11 @@ organizations:
 interests:
   - Model-order reduction
 
-# education:
-#   courses:
-#     - course: PhD in Engineering
-#       institution: University of Cambridge
-#       year: 2024
+education:
+  courses:
+    - course: PhD
+      institution: Scuola Internazionale Superiore di Studi Avanzati (SISSA)
+      year: 2022
 #     - course: MRes in Engineering
 #       institution: University of Cambridge
 #       year: 2014

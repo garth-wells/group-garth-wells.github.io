@@ -15,7 +15,7 @@ role: Hibbitt Professor of Solid Mechanics
 # Organizations/Affiliations
 organizations:
   - name: Department of Engineering, University of Cambridge
-    url: 'https://cam.ac.uk'
+    url: 'https://eng.cam.ac.uk'
   - name: Jesus College, Cambridge
     url: 'https://jesus.cam.ac.uk'
 
@@ -24,15 +24,17 @@ organizations:
 
 interests:
   - Scientific computing
-  - High performance computing
+  - High performance and parallel computing
   - Mathematical software
+  - Solid and fluid mechanics
+  - Numerical linear algebra
 
 education:
   courses:
-    - course: PhD (cum laude) Engineering
+    - course: PhD (cum laude)
       institution: Delft University of Technology
       year: 2001
-    - course: BEng in Engineering
+    - course: BE in Civil Engineering
       institution: University of Western Australia
       year: 1998
 
@@ -44,9 +46,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:gnw20@cam.ac.uk'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/garth-wells-6b203426/
@@ -83,3 +82,6 @@ user_groups:
 Garth is the Hibbitt Professor of Solid Mechanic and Deputy Head
 (Research) at the Department of Engineering, and a Fellow of Jesus
 College.
+
+He serves as Associate Editor of the
+[SIAM Journal on Scientific Computing](https://www.siam.org/publications/journals/siam-journal-on-scientific-computing-sisc).
