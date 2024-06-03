@@ -45,9 +45,9 @@ role: Postdoctoral Research Associate
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'mailto:test@example.org'
   - icon: linkedin
     icon_pack: ai
     link: https://www.linkedin.com/in/jorgen-s-dokken

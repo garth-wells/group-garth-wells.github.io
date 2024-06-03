@@ -1,11 +1,18 @@
 ---
-title: Recent & Upcoming Events
+title: Research
+date: 2022-10-24
 
-# Listing view
-view: compact
 
-# Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+type: landing
+
+# # Listing view
+# view: compact
+
+sections:
+  - block: contact
+    id: section-1
+    content:
+      title: Research
+      text: |-
+        Under construction.
 ---
